@@ -5,7 +5,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 37,99",
-      "finalPrice":"R$ 9,49"
+      "finalPrice":"R$ 9,49",
+      "game_link":"https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1159690/capsule_231x87.jpg?t=1688716761",
@@ -13,7 +14,8 @@
       "videoType":null,
       "discountPercentage":"-15%",
       "originalPrice":"R$ 88,99",
-      "finalPrice":"R$ 75,64"
+      "finalPrice":"R$ 75,64",
+      "game_link":"https://store.steampowered.com/app/1159690/Voidtrain/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/105600/capsule_231x87.jpg?t=1666290860",
@@ -21,7 +23,8 @@
       "videoType":null,
       "discountPercentage":"-50%",
       "originalPrice":"R$ 19,99",
-      "finalPrice":"R$ 9,99"
+      "finalPrice":"R$ 9,99",
+      "game_link":"https://store.steampowered.com/app/105600/Terraria/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_231x87.jpg?t=1655744208",
@@ -29,7 +32,8 @@
       "videoType":null,
       "discountPercentage":"-33%",
       "originalPrice":"R$ 36,99",
-      "finalPrice":"R$ 24,78"
+      "finalPrice":"R$ 24,78",
+      "game_link":"https://store.steampowered.com/app/648800/Raft/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/526870/capsule_231x87.jpg?t=1686669213",
@@ -37,7 +41,8 @@
       "videoType":null,
       "discountPercentage":"-45%",
       "originalPrice":"R$ 88,99",
-      "finalPrice":"R$ 48,94"
+      "finalPrice":"R$ 48,94",
+      "game_link":"https://store.steampowered.com/app/526870/Satisfactory/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_231x87.jpg?t=1684963474",
@@ -45,7 +50,8 @@
       "videoType":null,
       "discountPercentage":"-40%",
       "originalPrice":"R$ 199,00",
-      "finalPrice":"R$ 119,40"
+      "finalPrice":"R$ 119,40",
+      "game_link":"https://store.steampowered.com/app/962130/Grounded/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/251570/capsule_616x353.jpg?t=1688057019",
@@ -53,7 +59,8 @@
       "videoType":null,
       "discountPercentage":"-76%",
       "originalPrice":"R$ 44,99",
-      "finalPrice":"R$ 10,79"
+      "finalPrice":"R$ 10,79",
+      "game_link":"https://store.steampowered.com/app/251570/7_Days_to_Die/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/244850/capsule_231x87.jpg?t=1684560276",
@@ -61,7 +68,8 @@
       "videoType":null,
       "discountPercentage":"-50%",
       "originalPrice":"R$ 37,99",
-      "finalPrice":"R$ 18,99"
+      "finalPrice":"R$ 18,99",
+      "game_link":"https://store.steampowered.com/app/244850/Space_Engineers/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/capsule_231x87.jpg?t=1676616328",
@@ -69,7 +77,8 @@
       "videoType":null,
       "discountPercentage":"-40%",
       "originalPrice":"R$ 59,99",
-      "finalPrice":"R$ 35,99"
+      "finalPrice":"R$ 35,99",
+      "game_link":"https://store.steampowered.com/app/1766740/ChooChoo_Charles/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_231x87.jpg?t=1687281091",
@@ -77,7 +86,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 155,00",
-      "finalPrice":"R$ 38,75"
+      "finalPrice":"R$ 38,75",
+      "game_link":"https://store.steampowered.com/app/1151340/Fallout_76/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/264710/capsule_231x87.jpg?t=1670975847",
@@ -85,7 +95,8 @@
       "videoType":null,
       "discountPercentage":"-67%",
       "originalPrice":"R$ 57,99",
-      "finalPrice":"R$ 19,13"
+      "finalPrice":"R$ 19,13",
+      "game_link":"https://store.steampowered.com/app/264710/Subnautica/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_231x87.jpg?t=1676365340",
@@ -93,7 +104,8 @@
       "videoType":null,
       "discountPercentage":"-40%",
       "originalPrice":"R$ 37,99",
-      "finalPrice":"R$ 22,79"
+      "finalPrice":"R$ 22,79",
+      "game_link":"https://store.steampowered.com/app/892970/Valheim/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/768200/capsule_231x87.jpg?t=1688062376",
@@ -101,7 +113,8 @@
       "videoType":null,
       "discountPercentage":"-20%",
       "originalPrice":"R$ 73,99",
-      "finalPrice":"R$ 59,19"
+      "finalPrice":"R$ 59,19",
+      "game_link":"https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/221100/capsule_616x353.jpg?t=1674143992",
@@ -109,7 +122,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-40%",
       "originalPrice":"R$ 119,99",
-      "finalPrice":"R$ 71,99"
+      "finalPrice":"R$ 71,99",
+      "game_link":"https://store.steampowered.com/app/221100/DayZ/?snr=1_4_600__641"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1142710/capsule_231x87.jpg?t=1685031053",
@@ -117,7 +131,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-40%",
       "originalPrice":"R$ 252,00",
-      "finalPrice":"R$ 151,20"
+      "finalPrice":"R$ 151,20",
+      "game_link":"https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/2059190/capsule_231x87.jpg?t=1686750652",
@@ -125,7 +140,8 @@
       "videoType":null,
       "discountPercentage":"-10%",
       "originalPrice":"R$ 110,00",
-      "finalPrice":"R$ 99,00"
+      "finalPrice":"R$ 99,00",
+      "game_link":"https://store.steampowered.com/app/2059190/Total_War_WARHAMMER_III__Forge_of_the_Chaos_Dwarfs/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/1824060/capsule_231x87.jpg?t=1661348348",
@@ -133,7 +149,8 @@
       "videoType":null,
       "discountPercentage":"-25%",
       "originalPrice":"R$ 68,00",
-      "finalPrice":"R$ 51,00"
+      "finalPrice":"R$ 51,00",
+      "game_link":"https://store.steampowered.com/app/1824060/Total_War_WARHAMMER_III__Champions_of_Chaos/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_231x87.jpg?t=1687281091",
@@ -141,7 +158,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-75%",
       "originalPrice":"R$ 155,00",
-      "finalPrice":"R$ 38,75"
+      "finalPrice":"R$ 38,75",
+      "game_link":"https://store.steampowered.com/app/1151340/Fallout_76/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_231x87.jpg?t=1650909928",
@@ -149,7 +167,8 @@
       "videoType":null,
       "discountPercentage":"-67%",
       "originalPrice":"R$ 59,99",
-      "finalPrice":"R$ 19,79"
+      "finalPrice":"R$ 19,79",
+      "game_link":"https://store.steampowered.com/app/377160/Fallout_4/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.akamai.steamstatic.com/steam/subs/13435/capsule_231x87.jpg?t=1665072871",
@@ -157,7 +176,8 @@
       "videoType":null,
       "discountPercentage":"-67%",
       "originalPrice":"R$ 79,00",
-      "finalPrice":"R$ 26,07"
+      "finalPrice":"R$ 26,07",
+      "game_link":"https://store.steampowered.com/sub/13435/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_231x87.jpg?t=1687913628",
@@ -165,7 +185,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-75%",
       "originalPrice":"R$ 299,00",
-      "finalPrice":"R$ 74,75"
+      "finalPrice":"R$ 74,75",
+      "game_link":"https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/1487210/capsule_231x87.jpg?t=1687275332",
@@ -173,7 +194,8 @@
       "videoType":null,
       "discountPercentage":"-30%",
       "originalPrice":"R$ 319,00",
-      "finalPrice":"R$ 223,30"
+      "finalPrice":"R$ 223,30",
+      "game_link":"https://store.steampowered.com/app/1487210/Super_Mega_Baseball_4/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1677350/capsule_231x87.jpg?t=1687930078",
@@ -181,7 +203,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-50%",
       "originalPrice":"R$ 299,00",
-      "finalPrice":"R$ 149,50"
+      "finalPrice":"R$ 149,50",
+      "game_link":"https://store.steampowered.com/app/1677350/EA_SPORTS_PGA_TOUR/?snr=1_4_600__630"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/capsule_231x87.jpg?t=1681829951",
@@ -189,7 +212,8 @@
       "videoType":null,
       "discountPercentage":"-40%",
       "originalPrice":"R$ 59,99",
-      "finalPrice":"R$ 35,99"
+      "finalPrice":"R$ 35,99",
+      "game_link":"https://store.steampowered.com/app/1269370/171/?snr=1_4_600__632"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/945360/capsule_231x87.jpg?t=1684189647",
@@ -197,7 +221,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-25%",
       "originalPrice":"R$ 14,99",
-      "finalPrice":"R$ 11,24"
+      "finalPrice":"R$ 11,24",
+      "game_link":"https://store.steampowered.com/app/945360/Among_Us/?snr=1_4_600__632"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_231x87.jpg?t=1683281716",
@@ -205,7 +230,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-20%",
       "originalPrice":"R$ 27,89",
-      "finalPrice":"R$ 22,31"
+      "finalPrice":"R$ 22,31",
+      "game_link":"https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_4_600__632"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_231x87.jpg?t=1687913628",
@@ -213,7 +239,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-75%",
       "originalPrice":"R$ 299,00",
-      "finalPrice":"R$ 74,75"
+      "finalPrice":"R$ 74,75",
+      "game_link":"https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_4_600__632"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/495420/capsule_231x87.jpg?t=1684947123",
@@ -221,7 +248,8 @@
       "videoType":null,
       "discountPercentage":"-60%",
       "originalPrice":"R$ 79,99",
-      "finalPrice":"R$ 31,99"
+      "finalPrice":"R$ 31,99",
+      "game_link":"https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1943950/capsule_231x87.jpg?t=1687209215",
@@ -229,7 +257,8 @@
       "videoType":null,
       "discountPercentage":"-20%",
       "originalPrice":"R$ 20,69",
-      "finalPrice":"R$ 16,55"
+      "finalPrice":"R$ 16,55",
+      "game_link":"https://store.steampowered.com/app/1943950/Escape_the_Backrooms/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/313120/capsule_231x87.jpg?t=1671005552",
@@ -237,7 +266,8 @@
       "videoType":null,
       "discountPercentage":"-50%",
       "originalPrice":"R$ 37,99",
-      "finalPrice":"R$ 18,99"
+      "finalPrice":"R$ 18,99",
+      "game_link":"https://store.steampowered.com/app/313120/Stranded_Deep/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/387990/capsule_231x87.jpg?t=1593703247",
@@ -245,7 +275,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-33%",
       "originalPrice":"R$ 36,99",
-      "finalPrice":"R$ 24,78"
+      "finalPrice":"R$ 24,78",
+      "game_link":"https://store.steampowered.com/app/387990/Scrap_Mechanic/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/815370/capsule_231x87.jpg?t=1686518858",
@@ -253,7 +284,8 @@
       "videoType":null,
       "discountPercentage":"-40%",
       "originalPrice":"R$ 47,49",
-      "finalPrice":"R$ 28,49"
+      "finalPrice":"R$ 28,49",
+      "game_link":"https://store.steampowered.com/app/815370/Green_Hell/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1284190/capsule_231x87_alt_assets_1.jpg?t=1688116978",
@@ -261,7 +293,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-20%",
       "originalPrice":"R$ 37,99",
-      "finalPrice":"R$ 30,39"
+      "finalPrice":"R$ 30,39",
+      "game_link":"https://store.steampowered.com/app/1284190/The_Planet_Crafter/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/4000/capsule_616x353.jpg?t=1663621793",
@@ -269,7 +302,8 @@
       "videoType":null,
       "discountPercentage":"-50%",
       "originalPrice":"R$ 25,99",
-      "finalPrice":"R$ 12,99"
+      "finalPrice":"R$ 12,99",
+      "game_link":"https://store.steampowered.com/app/4000/Garrys_Mod/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/305620/capsule_231x87.jpg?t=1670900617",
@@ -277,7 +311,8 @@
       "videoType":null,
       "discountPercentage":"-50%",
       "originalPrice":"R$ 65,99",
-      "finalPrice":"R$ 32,99"
+      "finalPrice":"R$ 32,99",
+      "game_link":"https://store.steampowered.com/app/305620/The_Long_Dark/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1782120/capsule_231x87.jpg?t=1688399052",
@@ -285,7 +320,8 @@
       "videoType":null,
       "discountPercentage":"-10%",
       "originalPrice":"R$ 59,99",
-      "finalPrice":"R$ 53,99"
+      "finalPrice":"R$ 53,99",
+      "game_link":"https://store.steampowered.com/app/1782120/ZERO_Sievert/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/573090/capsule_231x87_alt_assets_5.jpg?t=1687610167",
@@ -293,7 +329,8 @@
       "videoType":null,
       "discountPercentage":"-35%",
       "originalPrice":"R$ 47,49",
-      "finalPrice":"R$ 30,86"
+      "finalPrice":"R$ 30,86",
+      "game_link":"https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1106840/capsule_231x87.jpg?t=1681490626",
@@ -301,7 +338,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-30%",
       "originalPrice":"R$ 46,99",
-      "finalPrice":"R$ 32,89"
+      "finalPrice":"R$ 32,89",
+      "game_link":"https://store.steampowered.com/app/1106840/Hydroneer/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1169040/capsule_231x87.jpg?t=1688727817",
@@ -309,7 +347,8 @@
       "videoType":null,
       "discountPercentage":"-33%",
       "originalPrice":"R$ 19,99",
-      "finalPrice":"R$ 13,39"
+      "finalPrice":"R$ 13,39",
+      "game_link":"https://store.steampowered.com/app/1169040/Necesse/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/233860/capsule_231x87.jpg?t=1677606321",
@@ -317,7 +356,8 @@
       "videoType":null,
       "discountPercentage":"-55%",
       "originalPrice":"R$ 57,99",
-      "finalPrice":"R$ 26,09"
+      "finalPrice":"R$ 26,09",
+      "game_link":"https://store.steampowered.com/app/233860/Kenshi/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1129580/capsule_616x353_alt_assets_28.jpg?t=1688030596",
@@ -325,7 +365,8 @@
       "videoType":null,
       "discountPercentage":"-35%",
       "originalPrice":"R$ 129,00",
-      "finalPrice":"R$ 83,85"
+      "finalPrice":"R$ 83,85",
+      "game_link":"https://store.steampowered.com/app/1129580/Medieval_Dynasty/?snr=1_4_600__646"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/999260/capsule_231x87.jpg?t=1581689600",
@@ -333,7 +374,8 @@
       "videoType":null,
       "discountPercentage":"-80%",
       "originalPrice":"R$ 89,99",
-      "finalPrice":"R$ 17,99"
+      "finalPrice":"R$ 17,99",
+      "game_link":"https://store.steampowered.com/app/999260/FOR_HONOR__Year_3_Pass/?snr=1_4_600__631"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/208817/capsule_231x87.jpg?t=1675711010",
@@ -341,7 +383,8 @@
       "videoType":null,
       "discountPercentage":"-28%",
       "originalPrice":"R$ 1,49",
-      "finalPrice":"R$ 1,08"
+      "finalPrice":"R$ 1,08",
+      "game_link":"https://store.steampowered.com/app/208817/Tomb_Raider_Demolition_Skin/?snr=1_4_600__631"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/591800/capsule_231x87.jpg?t=1540192515",
@@ -349,7 +392,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-80%",
       "originalPrice":"R$ 89,99",
-      "finalPrice":"R$ 17,99"
+      "finalPrice":"R$ 17,99",
+      "game_link":"https://store.steampowered.com/app/591800/FOR_HONOR_Year_1_Heroes_Bundle/?snr=1_4_600__631"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/208818/capsule_231x87.jpg?t=1675708702",
@@ -357,7 +401,8 @@
       "videoType":null,
       "discountPercentage":"-28%",
       "originalPrice":"R$ 1,49",
-      "finalPrice":"R$ 1,08"
+      "finalPrice":"R$ 1,08",
+      "game_link":"https://store.steampowered.com/app/208818/Tomb_Raider_SureShot_Skin/?snr=1_4_600__631"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_616x353.jpg?t=1687913628",
@@ -365,7 +410,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 299,00",
-      "finalPrice":"R$ 74,75"
+      "finalPrice":"R$ 74,75",
+      "game_link":"https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_4_600__104_4"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg?t=1683618443",
@@ -373,7 +419,8 @@
       "videoType":null,
       "discountPercentage":"-30%",
       "originalPrice":"R$ 249,90",
-      "finalPrice":"R$ 174,93"
+      "finalPrice":"R$ 174,93",
+      "game_link":"https://store.steampowered.com/app/1245620/ELDEN_RING/?snr=1_4_600__104_6"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1671485009",
@@ -381,7 +428,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-67%",
       "originalPrice":"R$ 299,90",
-      "finalPrice":"R$ 98,96"
+      "finalPrice":"R$ 98,96",
+      "game_link":"https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_4_600__104_7"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_616x353.jpg?t=1687571108",
@@ -389,7 +437,8 @@
       "videoType":null,
       "discountPercentage":"-45%",
       "originalPrice":"R$ 299,90",
-      "finalPrice":"R$ 164,94"
+      "finalPrice":"R$ 164,94",
+      "game_link":"https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/?snr=1_4_600__104_8"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/976310/capsule_616x353.jpg?t=1684790351",
@@ -397,7 +446,8 @@
       "videoType":null,
       "discountPercentage":"-90%",
       "originalPrice":"R$ 229,99",
-      "finalPrice":"R$ 22,99"
+      "finalPrice":"R$ 22,99",
+      "game_link":"https://store.steampowered.com/app/976310/Mortal_Kombat11/?snr=1_4_600__104_9"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg?t=1688579271",
@@ -405,7 +455,8 @@
       "videoType":null,
       "discountPercentage":"-50%",
       "originalPrice":"R$ 249,00",
-      "finalPrice":"R$ 124,50"
+      "finalPrice":"R$ 124,50",
+      "game_link":"https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_4_600__104_10"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/capsule_616x353.jpg?t=1682374543",
@@ -413,7 +464,8 @@
       "videoType":"video/webm",
       "discountPercentage":"-50%",
       "originalPrice":"R$ 89,99",
-      "finalPrice":"R$ 44,99"
+      "finalPrice":"R$ 44,99",
+      "game_link":"https://store.steampowered.com/app/1172620/Sea_of_Thieves_2023_Edition/?snr=1_4_600__104_11"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_616x353.jpg?t=1683639221",
@@ -421,7 +473,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 49,99",
-      "finalPrice":"R$ 12,49"
+      "finalPrice":"R$ 12,49",
+      "game_link":"https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_4_600__104_12"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_616x353.jpg?t=1688619744",
@@ -429,7 +482,8 @@
       "videoType":null,
       "discountPercentage":"-10%",
       "originalPrice":"R$ 59,99",
-      "finalPrice":"R$ 53,99"
+      "finalPrice":"R$ 53,99",
+      "game_link":"https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_4_600__104_13"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1688382273",
@@ -437,7 +491,8 @@
       "videoType":null,
       "discountPercentage":"-50%",
       "originalPrice":"R$ 199,90",
-      "finalPrice":"R$ 99,95"
+      "finalPrice":"R$ 99,95",
+      "game_link":"https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_4_600__104_14"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_616x353.jpg?t=1687878531",
@@ -445,7 +500,8 @@
       "videoType":null,
       "discountPercentage":"-60%",
       "originalPrice":"R$ 49,99",
-      "finalPrice":"R$ 19,99"
+      "finalPrice":"R$ 19,99",
+      "game_link":"https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_4_600__104_15"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_616x353.jpg?t=1650909796",
@@ -453,7 +509,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 149,00",
-      "finalPrice":"R$ 37,25"
+      "finalPrice":"R$ 37,25",
+      "game_link":"https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_4_600__104_16"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_231x87.jpg?t=1671135934",
@@ -461,7 +518,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 199,99",
-      "finalPrice":"R$ 49,99"
+      "finalPrice":"R$ 49,99",
+      "game_link":"https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/?snr=1_4_600__sale-deals"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/703080/capsule_231x87_alt_assets_1.jpg?t=1687255697",
@@ -469,7 +527,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 100,00",
-      "finalPrice":"R$ 25,00"
+      "finalPrice":"R$ 25,00",
+      "game_link":"https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_4_600__sale-deals"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_231x87.jpg?t=1687959506",
@@ -477,7 +536,8 @@
       "videoType":null,
       "discountPercentage":"-70%",
       "originalPrice":"R$ 79,99",
-      "finalPrice":"R$ 23,99"
+      "finalPrice":"R$ 23,99",
+      "game_link":"https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_4_600__sale-deals"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/capsule_231x87.jpg?t=1683846413",
@@ -485,7 +545,8 @@
       "videoType":null,
       "discountPercentage":"-60%",
       "originalPrice":"R$ 107,99",
-      "finalPrice":"R$ 43,19"
+      "finalPrice":"R$ 43,19",
+      "game_link":"https://store.steampowered.com/app/1063730/New_World/?snr=1_4_600__sale-deals"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/298110/capsule_231x87.jpg?t=1682464310",
@@ -493,7 +554,8 @@
       "videoType":null,
       "discountPercentage":"-80%",
       "originalPrice":"R$ 89,99",
-      "finalPrice":"R$ 17,99"
+      "finalPrice":"R$ 17,99",
+      "game_link":"https://store.steampowered.com/app/298110/Far_Cry_4/?snr=1_4_600__137"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/960090/capsule_231x87.jpg?t=1688681768",
@@ -501,7 +563,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 27,89",
-      "finalPrice":"R$ 6,97"
+      "finalPrice":"R$ 6,97",
+      "game_link":"https://store.steampowered.com/app/960090/Bloons_TD_6/?snr=1_4_600__137"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/322330/capsule_231x87_alt_assets_1.jpg?t=1687986537",
@@ -509,7 +572,8 @@
       "videoType":null,
       "discountPercentage":"-66%",
       "originalPrice":"R$ 27,99",
-      "finalPrice":"R$ 9,51"
+      "finalPrice":"R$ 9,51",
+      "game_link":"https://store.steampowered.com/app/322330/Dont_Starve_Together/?snr=1_4_600__137"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_231x87.jpg?t=1670442579",
@@ -517,7 +581,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 59,90",
-      "finalPrice":"R$ 14,97"
+      "finalPrice":"R$ 14,97",
+      "game_link":"https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_4_600__137"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_231x87.jpg?t=1688390724",
@@ -525,7 +590,8 @@
       "videoType":null,
       "discountPercentage":"-20%",
       "originalPrice":"R$ 89,99",
-      "finalPrice":"R$ 71,99"
+      "finalPrice":"R$ 71,99",
+      "game_link":"https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/447040/capsule_231x87.jpg?t=1680017909",
@@ -533,7 +599,8 @@
       "videoType":null,
       "discountPercentage":"-85%",
       "originalPrice":"R$ 149,99",
-      "finalPrice":"R$ 22,49"
+      "finalPrice":"R$ 22,49",
+      "game_link":"https://store.steampowered.com/app/447040/Watch_Dogs_2/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/218620/capsule_231x87_alt_assets_17.jpg?t=1688481014",
@@ -541,7 +608,8 @@
       "videoType":null,
       "discountPercentage":"-90%",
       "originalPrice":"R$ 23,99",
-      "finalPrice":"R$ 2,39"
+      "finalPrice":"R$ 2,39",
+      "game_link":"https://store.steampowered.com/app/218620/PAYDAY_2/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/12210/capsule_231x87.jpg?t=1618853493",
@@ -549,7 +617,8 @@
       "videoType":null,
       "discountPercentage":"-70%",
       "originalPrice":"R$ 79,00",
-      "finalPrice":"R$ 23,70"
+      "finalPrice":"R$ 23,70",
+      "game_link":"https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_231x87.jpg?t=1632420251",
@@ -557,7 +626,8 @@
       "videoType":null,
       "discountPercentage":"-65%",
       "originalPrice":"R$ 229,90",
-      "finalPrice":"R$ 80,46"
+      "finalPrice":"R$ 80,46",
+      "game_link":"https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_231x87.jpg?t=1683281716",
@@ -565,7 +635,8 @@
       "videoType":null,
       "discountPercentage":"-20%",
       "originalPrice":"R$ 27,89",
-      "finalPrice":"R$ 22,31"
+      "finalPrice":"R$ 22,31",
+      "game_link":"https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/594650/capsule_231x87_alt_assets_0.jpg?t=1688573408",
@@ -573,7 +644,8 @@
       "videoType":null,
       "discountPercentage":"-60%",
       "originalPrice":"R$ 89,00",
-      "finalPrice":"R$ 35,60"
+      "finalPrice":"R$ 35,60",
+      "game_link":"https://store.steampowered.com/app/594650/Hunt_Showdown/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/capsule_231x87.jpg?t=1684177712",
@@ -581,7 +653,8 @@
       "videoType":null,
       "discountPercentage":"-67%",
       "originalPrice":"R$ 199,90",
-      "finalPrice":"R$ 65,96"
+      "finalPrice":"R$ 65,96",
+      "game_link":"https://store.steampowered.com/app/1259420/Days_Gone/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/550/capsule_231x87.jpg?t=1675801903",
@@ -589,7 +662,8 @@
       "videoType":null,
       "discountPercentage":"-90%",
       "originalPrice":"R$ 32,99",
-      "finalPrice":"R$ 3,29"
+      "finalPrice":"R$ 3,29",
+      "game_link":"https://store.steampowered.com/app/550/Left_4_Dead_2/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1274570/capsule_231x87.jpg?t=1683079484",
@@ -597,7 +671,8 @@
       "videoType":null,
       "discountPercentage":"-20%",
       "originalPrice":"R$ 16,99",
-      "finalPrice":"R$ 13,59"
+      "finalPrice":"R$ 13,59",
+      "game_link":"https://store.steampowered.com/app/1274570/DEVOUR/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_231x87.jpg?t=1672856194",
@@ -605,7 +680,8 @@
       "videoType":null,
       "discountPercentage":"-80%",
       "originalPrice":"R$ 279,99",
-      "finalPrice":"R$ 55,99"
+      "finalPrice":"R$ 55,99",
+      "game_link":"https://store.steampowered.com/app/924970/Back_4_Blood/?snr=1_4_600__628"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_616x353.jpg?t=1688619744",
@@ -613,7 +689,8 @@
       "videoType":null,
       "discountPercentage":"-10%",
       "originalPrice":"R$ 59,99",
-      "finalPrice":"R$ 53,99"
+      "finalPrice":"R$ 53,99",
+      "game_link":"https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_4_600__145_2"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1942280/capsule_616x353.jpg?t=1687514377",
@@ -621,7 +698,8 @@
       "videoType":null,
       "discountPercentage":"-20%",
       "originalPrice":"R$ 10,89",
-      "finalPrice":"R$ 8,71"
+      "finalPrice":"R$ 8,71",
+      "game_link":"https://store.steampowered.com/app/1942280/Brotato/?snr=1_4_600__145_3"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/capsule_616x353.jpg?t=1688149164",
@@ -629,7 +707,8 @@
       "videoType":null,
       "discountPercentage":"-75%",
       "originalPrice":"R$ 249,90",
-      "finalPrice":"R$ 62,47"
+      "finalPrice":"R$ 62,47",
+      "game_link":"https://store.steampowered.com/app/2290180/Riders_Republic/?snr=1_4_600__145_8"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1966900/capsule_616x353.jpg?t=1686845111",
@@ -637,7 +716,8 @@
       "videoType":null,
       "discountPercentage":"-20%",
       "originalPrice":"R$ 16,99",
-      "finalPrice":"R$ 13,59"
+      "finalPrice":"R$ 13,59",
+      "game_link":"https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/?snr=1_4_600__145_9"
    },
    {
       "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/2381590/capsule_616x353.jpg?t=1688315730",
@@ -645,6 +725,7 @@
       "videoType":null,
       "discountPercentage":"-30%",
       "originalPrice":"R$ 32,99",
-      "finalPrice":"R$ 23,09"
+      "finalPrice":"R$ 23,09",
+      "game_link":"https://store.steampowered.com/app/2381590/Only_Up/?snr=1_4_600__145_16"
    }
 ]
