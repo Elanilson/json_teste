@@ -1,0 +1,650 @@
+[
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_231x87.jpg?t=1669254188",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 37,99",
+      "finalPrice":"R$ 9,49"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1159690/capsule_231x87.jpg?t=1688716761",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-15%",
+      "originalPrice":"R$ 88,99",
+      "finalPrice":"R$ 75,64"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/105600/capsule_231x87.jpg?t=1666290860",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 19,99",
+      "finalPrice":"R$ 9,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_231x87.jpg?t=1655744208",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-33%",
+      "originalPrice":"R$ 36,99",
+      "finalPrice":"R$ 24,78"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/526870/capsule_231x87.jpg?t=1686669213",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-45%",
+      "originalPrice":"R$ 88,99",
+      "finalPrice":"R$ 48,94"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_231x87.jpg?t=1684963474",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-40%",
+      "originalPrice":"R$ 199,00",
+      "finalPrice":"R$ 119,40"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/251570/capsule_616x353.jpg?t=1688057019",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-76%",
+      "originalPrice":"R$ 44,99",
+      "finalPrice":"R$ 10,79"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/244850/capsule_231x87.jpg?t=1684560276",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 37,99",
+      "finalPrice":"R$ 18,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/capsule_231x87.jpg?t=1676616328",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-40%",
+      "originalPrice":"R$ 59,99",
+      "finalPrice":"R$ 35,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_231x87.jpg?t=1687281091",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 155,00",
+      "finalPrice":"R$ 38,75"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/264710/capsule_231x87.jpg?t=1670975847",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-67%",
+      "originalPrice":"R$ 57,99",
+      "finalPrice":"R$ 19,13"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_231x87.jpg?t=1676365340",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-40%",
+      "originalPrice":"R$ 37,99",
+      "finalPrice":"R$ 22,79"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/768200/capsule_231x87.jpg?t=1688062376",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 73,99",
+      "finalPrice":"R$ 59,19"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/221100/capsule_616x353.jpg?t=1674143992",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256790906/microtrailer.webm?t=1593118262",
+      "videoType":"video/webm",
+      "discountPercentage":"-40%",
+      "originalPrice":"R$ 119,99",
+      "finalPrice":"R$ 71,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1142710/capsule_231x87.jpg?t=1685031053",
+      "videoSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/256930877/microtrailer.webm?t=1676554676",
+      "videoType":"video/webm",
+      "discountPercentage":"-40%",
+      "originalPrice":"R$ 252,00",
+      "finalPrice":"R$ 151,20"
+   },
+   {
+      "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/2059190/capsule_231x87.jpg?t=1686750652",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-10%",
+      "originalPrice":"R$ 110,00",
+      "finalPrice":"R$ 99,00"
+   },
+   {
+      "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/1824060/capsule_231x87.jpg?t=1661348348",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-25%",
+      "originalPrice":"R$ 68,00",
+      "finalPrice":"R$ 51,00"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_231x87.jpg?t=1687281091",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256954161/microtrailer.webm?t=1687281089",
+      "videoType":"video/webm",
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 155,00",
+      "finalPrice":"R$ 38,75"
+   },
+   {
+      "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_231x87.jpg?t=1650909928",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-67%",
+      "originalPrice":"R$ 59,99",
+      "finalPrice":"R$ 19,79"
+   },
+   {
+      "imageSrc":"https://cdn.akamai.steamstatic.com/steam/subs/13435/capsule_231x87.jpg?t=1665072871",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-67%",
+      "originalPrice":"R$ 79,00",
+      "finalPrice":"R$ 26,07"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_231x87.jpg?t=1687913628",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256942523/microtrailer.webm?t=1682117044",
+      "videoType":"video/webm",
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 299,00",
+      "finalPrice":"R$ 74,75"
+   },
+   {
+      "imageSrc":"https://cdn.akamai.steamstatic.com/steam/apps/1487210/capsule_231x87.jpg?t=1687275332",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-30%",
+      "originalPrice":"R$ 319,00",
+      "finalPrice":"R$ 223,30"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1677350/capsule_231x87.jpg?t=1687930078",
+      "videoSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/256955500/microtrailer.webm?t=1687930071",
+      "videoType":"video/webm",
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 299,00",
+      "finalPrice":"R$ 149,50"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/capsule_231x87.jpg?t=1681829951",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-40%",
+      "originalPrice":"R$ 59,99",
+      "finalPrice":"R$ 35,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/945360/capsule_231x87.jpg?t=1684189647",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256924476/microtrailer.webm?t=1684189580",
+      "videoType":"video/webm",
+      "discountPercentage":"-25%",
+      "originalPrice":"R$ 14,99",
+      "finalPrice":"R$ 11,24"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_231x87.jpg?t=1683281716",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256906135/microtrailer.webm?t=1663254571",
+      "videoType":"video/webm",
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 27,89",
+      "finalPrice":"R$ 22,31"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_231x87.jpg?t=1687913628",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256942523/microtrailer.webm?t=1682117044",
+      "videoType":"video/webm",
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 299,00",
+      "finalPrice":"R$ 74,75"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/495420/capsule_231x87.jpg?t=1684947123",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-60%",
+      "originalPrice":"R$ 79,99",
+      "finalPrice":"R$ 31,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1943950/capsule_231x87.jpg?t=1687209215",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 20,69",
+      "finalPrice":"R$ 16,55"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/313120/capsule_231x87.jpg?t=1671005552",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 37,99",
+      "finalPrice":"R$ 18,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/387990/capsule_231x87.jpg?t=1593703247",
+      "videoSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/256784649/microtrailer.webm?t=1588870791",
+      "videoType":"video/webm",
+      "discountPercentage":"-33%",
+      "originalPrice":"R$ 36,99",
+      "finalPrice":"R$ 24,78"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/815370/capsule_231x87.jpg?t=1686518858",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-40%",
+      "originalPrice":"R$ 47,49",
+      "finalPrice":"R$ 28,49"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1284190/capsule_231x87_alt_assets_1.jpg?t=1688116978",
+      "videoSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/256852507/microtrailer.webm?t=1632247926",
+      "videoType":"video/webm",
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 37,99",
+      "finalPrice":"R$ 30,39"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/4000/capsule_616x353.jpg?t=1663621793",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 25,99",
+      "finalPrice":"R$ 12,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/305620/capsule_231x87.jpg?t=1670900617",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 65,99",
+      "finalPrice":"R$ 32,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1782120/capsule_231x87.jpg?t=1688399052",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-10%",
+      "originalPrice":"R$ 59,99",
+      "finalPrice":"R$ 53,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/573090/capsule_231x87_alt_assets_5.jpg?t=1687610167",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-35%",
+      "originalPrice":"R$ 47,49",
+      "finalPrice":"R$ 30,86"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1106840/capsule_231x87.jpg?t=1681490626",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256941235/microtrailer.webm?t=1681490546",
+      "videoType":"video/webm",
+      "discountPercentage":"-30%",
+      "originalPrice":"R$ 46,99",
+      "finalPrice":"R$ 32,89"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1169040/capsule_231x87.jpg?t=1688727817",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-33%",
+      "originalPrice":"R$ 19,99",
+      "finalPrice":"R$ 13,39"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/233860/capsule_231x87.jpg?t=1677606321",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-55%",
+      "originalPrice":"R$ 57,99",
+      "finalPrice":"R$ 26,09"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1129580/capsule_616x353_alt_assets_28.jpg?t=1688030596",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-35%",
+      "originalPrice":"R$ 129,00",
+      "finalPrice":"R$ 83,85"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/999260/capsule_231x87.jpg?t=1581689600",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-80%",
+      "originalPrice":"R$ 89,99",
+      "finalPrice":"R$ 17,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/208817/capsule_231x87.jpg?t=1675711010",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-28%",
+      "originalPrice":"R$ 1,49",
+      "finalPrice":"R$ 1,08"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/591800/capsule_231x87.jpg?t=1540192515",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256679368/microtrailer.webm?t=1487048688",
+      "videoType":"video/webm",
+      "discountPercentage":"-80%",
+      "originalPrice":"R$ 89,99",
+      "finalPrice":"R$ 17,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/208818/capsule_231x87.jpg?t=1675708702",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-28%",
+      "originalPrice":"R$ 1,49",
+      "finalPrice":"R$ 1,08"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_616x353.jpg?t=1687913628",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 299,00",
+      "finalPrice":"R$ 74,75"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg?t=1683618443",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-30%",
+      "originalPrice":"R$ 249,90",
+      "finalPrice":"R$ 174,93"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1671485009",
+      "videoSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/256767979/microtrailer.webm?t=1574881964",
+      "videoType":"video/webm",
+      "discountPercentage":"-67%",
+      "originalPrice":"R$ 299,90",
+      "finalPrice":"R$ 98,96"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_616x353.jpg?t=1687571108",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-45%",
+      "originalPrice":"R$ 299,90",
+      "finalPrice":"R$ 164,94"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/976310/capsule_616x353.jpg?t=1684790351",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-90%",
+      "originalPrice":"R$ 229,99",
+      "finalPrice":"R$ 22,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg?t=1688579271",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 249,00",
+      "finalPrice":"R$ 124,50"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/capsule_616x353.jpg?t=1682374543",
+      "videoSrc":"https://cdn.akamai.steamstatic.com/steam/apps/256936077/microtrailer.webm?t=1678968012",
+      "videoType":"video/webm",
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 89,99",
+      "finalPrice":"R$ 44,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_616x353.jpg?t=1683639221",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 49,99",
+      "finalPrice":"R$ 12,49"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_616x353.jpg?t=1688619744",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-10%",
+      "originalPrice":"R$ 59,99",
+      "finalPrice":"R$ 53,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1688382273",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-50%",
+      "originalPrice":"R$ 199,90",
+      "finalPrice":"R$ 99,95"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_616x353.jpg?t=1687878531",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-60%",
+      "originalPrice":"R$ 49,99",
+      "finalPrice":"R$ 19,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_616x353.jpg?t=1650909796",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 149,00",
+      "finalPrice":"R$ 37,25"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_231x87.jpg?t=1671135934",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 199,99",
+      "finalPrice":"R$ 49,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/703080/capsule_231x87_alt_assets_1.jpg?t=1687255697",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 100,00",
+      "finalPrice":"R$ 25,00"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_231x87.jpg?t=1687959506",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-70%",
+      "originalPrice":"R$ 79,99",
+      "finalPrice":"R$ 23,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/capsule_231x87.jpg?t=1683846413",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-60%",
+      "originalPrice":"R$ 107,99",
+      "finalPrice":"R$ 43,19"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/298110/capsule_231x87.jpg?t=1682464310",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-80%",
+      "originalPrice":"R$ 89,99",
+      "finalPrice":"R$ 17,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/960090/capsule_231x87.jpg?t=1688681768",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 27,89",
+      "finalPrice":"R$ 6,97"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/322330/capsule_231x87_alt_assets_1.jpg?t=1687986537",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-66%",
+      "originalPrice":"R$ 27,99",
+      "finalPrice":"R$ 9,51"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_231x87.jpg?t=1670442579",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 59,90",
+      "finalPrice":"R$ 14,97"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_231x87.jpg?t=1688390724",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 89,99",
+      "finalPrice":"R$ 71,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/447040/capsule_231x87.jpg?t=1680017909",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-85%",
+      "originalPrice":"R$ 149,99",
+      "finalPrice":"R$ 22,49"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/218620/capsule_231x87_alt_assets_17.jpg?t=1688481014",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-90%",
+      "originalPrice":"R$ 23,99",
+      "finalPrice":"R$ 2,39"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/12210/capsule_231x87.jpg?t=1618853493",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-70%",
+      "originalPrice":"R$ 79,00",
+      "finalPrice":"R$ 23,70"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_231x87.jpg?t=1632420251",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-65%",
+      "originalPrice":"R$ 229,90",
+      "finalPrice":"R$ 80,46"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_231x87.jpg?t=1683281716",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 27,89",
+      "finalPrice":"R$ 22,31"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/594650/capsule_231x87_alt_assets_0.jpg?t=1688573408",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-60%",
+      "originalPrice":"R$ 89,00",
+      "finalPrice":"R$ 35,60"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/capsule_231x87.jpg?t=1684177712",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-67%",
+      "originalPrice":"R$ 199,90",
+      "finalPrice":"R$ 65,96"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/550/capsule_231x87.jpg?t=1675801903",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-90%",
+      "originalPrice":"R$ 32,99",
+      "finalPrice":"R$ 3,29"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1274570/capsule_231x87.jpg?t=1683079484",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 16,99",
+      "finalPrice":"R$ 13,59"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_231x87.jpg?t=1672856194",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-80%",
+      "originalPrice":"R$ 279,99",
+      "finalPrice":"R$ 55,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_616x353.jpg?t=1688619744",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-10%",
+      "originalPrice":"R$ 59,99",
+      "finalPrice":"R$ 53,99"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1942280/capsule_616x353.jpg?t=1687514377",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 10,89",
+      "finalPrice":"R$ 8,71"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/capsule_616x353.jpg?t=1688149164",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-75%",
+      "originalPrice":"R$ 249,90",
+      "finalPrice":"R$ 62,47"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/1966900/capsule_616x353.jpg?t=1686845111",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-20%",
+      "originalPrice":"R$ 16,99",
+      "finalPrice":"R$ 13,59"
+   },
+   {
+      "imageSrc":"https://cdn.cloudflare.steamstatic.com/steam/apps/2381590/capsule_616x353.jpg?t=1688315730",
+      "videoSrc":null,
+      "videoType":null,
+      "discountPercentage":"-30%",
+      "originalPrice":"R$ 32,99",
+      "finalPrice":"R$ 23,09"
+   }
+]
