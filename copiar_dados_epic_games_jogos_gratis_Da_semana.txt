@@ -1,0 +1,62 @@
+function captureDataFromPage() {
+  // Acessar a seção específica que contém os dados
+  const section = document.querySelector('section.css-2u323');
+
+  if (section) {
+    // Acessar a div específica dentro da seção
+    const div = section.querySelector('div.css-1myhtyb');
+
+    if (div) {
+      // Acessar os conteúdos desejados dentro da div
+      const items = div.querySelectorAll('div.css-1ukp34s');
+
+      const itemData = [];
+
+      items.forEach(item => {
+        const itemDataObj = {};
+
+        // Capturar os dados de cada item
+        const image = item.querySelector('img');
+        itemDataObj.imageSrc = image ? image.getAttribute('src') : null;
+
+        const titulo = item.querySelector('div[data-testid="direction-auto"] span');
+        itemDataObj.titulo = titulo ? titulo.textContent.trim() : null;
+
+        const finalPrice = item.querySelector('.css-119zqif');
+        itemDataObj.finalPrice = finalPrice ? finalPrice.textContent.trim() : null;
+
+        const originalPrice = item.querySelector('.css-4jky3p');
+        itemDataObj.originalPrice = originalPrice ? originalPrice.textContent.trim() : null;
+
+        const discountPercentage = item.querySelector('.css-b0xoos');
+        itemDataObj.discountPercentage = discountPercentage ? discountPercentage.textContent.trim() : null;
+
+        const statusJogo = item.querySelector('div.css-11xvn05 span') || item.querySelector('div.css-gyjcm9 span');
+        itemDataObj.statusJogo = statusJogo ? statusJogo.textContent.trim() : null;
+
+        const linkJogo = item.querySelector('a[aria-label]');
+        itemDataObj.linkJogo = linkJogo ? 'https://store.epicgames.com/' + linkJogo.getAttribute('href') : null;
+
+        const dateGameSpan = item.querySelector('span[data-testid="offer-title-info-subtitle"] span');
+        const dateGameTime2 = item.querySelector('span[data-testid="offer-title-info-subtitle"] time:last-child');
+        if (dateGameSpan && dateGameTime2) {
+          itemDataObj.dateGame = dateGameSpan.textContent.trim() + ' às ' + dateGameTime2.textContent.trim();
+        } else {
+          itemDataObj.dateGame = null;
+        }
+
+        itemData.push(itemDataObj);
+      });
+
+      // Exibir o resultado completo em formato JSON no console
+      console.log(JSON.stringify(itemData));
+    } else {
+      console.log('Div css-1myhtyb não encontrada.');
+    }
+  } else {
+    console.log('Seção css-2u323 não encontrada.');
+  }
+}
+
+// Chamar a função para capturar os dados da página
+captureDataFromPage();

@@ -1,0 +1,45 @@
+function captureDataFromPage() {
+  // Acessar os dados salvos da página
+  const items = document.querySelectorAll('div.css-rk7ym5');
+
+  const itemData = [];
+
+  items.forEach(item => {
+    const itemDataObj = {};
+
+    // Capturar os dados de cada item
+    const image = item.querySelector('img');
+    itemDataObj.imageSrc = image ? image.getAttribute('src') : null;
+
+    const titulo = item.querySelector('.css-rgqwpc');
+    itemDataObj.titulo = titulo ? titulo.textContent.trim() : null;
+
+    const finalPrice = item.querySelector('.css-119zqif');
+    itemDataObj.finalPrice = finalPrice ? finalPrice.textContent.trim() : null;
+
+    const originalPrice = item.querySelector('.css-4jky3p');
+    itemDataObj.originalPrice = originalPrice ? originalPrice.textContent.trim() : null;
+
+    const discountPercentage = item.querySelector('.css-b0xoos');
+    itemDataObj.discountPercentage = discountPercentage ? discountPercentage.textContent.trim() : null;
+
+    const statusJogo = item.querySelector('.css-25dfdw');
+    itemDataObj.statusJogo = statusJogo ? statusJogo.textContent.trim() : null;
+
+    const linkJogo = item.querySelector('.css-g3jcms');
+    if (linkJogo) {
+      const href = linkJogo.getAttribute('href');
+      itemDataObj.linkJogo = href ? 'https://store.epicgames.com/' + href : null;
+    } else {
+      itemDataObj.linkJogo = null;
+    }
+
+    itemData.push(itemDataObj);
+  });
+
+  // Exibir o resultado completo em formato JSON no console
+  console.log(JSON.stringify(itemData));
+}
+
+// Chamar a função para capturar os dados da página
+captureDataFromPage();

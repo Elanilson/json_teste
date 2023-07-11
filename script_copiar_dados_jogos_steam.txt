@@ -1,0 +1,55 @@
+function loadSavedData() {
+  // Recuperar o código HTML do localStorage
+  const codigoHTML = localStorage.getItem('codigoHTML');
+
+  // Verificar se existe código HTML armazenado
+  if (codigoHTML) {
+    // Criar um elemento <html> temporário
+    const tempHTML = document.createElement('html');
+
+    // Definir o código HTML recuperado como conteúdo do elemento <html>
+    tempHTML.innerHTML = codigoHTML;
+
+    // Acessar os dados salvos da página
+    const items = tempHTML.querySelectorAll('a[data-ds-appid]');
+
+    const itemData = [];
+
+    items.forEach(item => {
+      const itemDataObj = {};
+
+      // Capturar os dados de cada item
+      const image = item.querySelector('.sale_capsule_image');
+      itemDataObj.imageSrc = image ? image.getAttribute('src') : null;
+
+      const video = item.querySelector('.sale_capsule_video');
+      const videoSource = video ? video.querySelector('source') : null;
+      itemDataObj.videoSrc = videoSource ? videoSource.getAttribute('src') : null;
+      itemDataObj.videoType = videoSource ? videoSource.getAttribute('type') : null;
+
+      const discountBlock = item.querySelector('.discount_block_inline');
+      const discountPct = discountBlock ? discountBlock.querySelector('.discount_pct') : null;
+      itemDataObj.discountPercentage = discountPct ? discountPct.textContent.trim() : null;
+
+      const discountPrices = discountBlock ? discountBlock.querySelectorAll('.discount_prices > div') : null;
+      itemDataObj.originalPrice = discountPrices && discountPrices.length === 2 ? discountPrices[0].textContent.trim() : null;
+      itemDataObj.finalPrice = discountPrices && discountPrices.length === 2 ? discountPrices[1].textContent.trim() : null;
+
+      // Verificar se imageSrc não é null e não termina com ".gif"
+      if (itemDataObj.imageSrc && !itemDataObj.imageSrc.endsWith('.gif')) {
+        itemData.push(itemDataObj);
+      }
+    });
+
+    // Remover os itens em que originalPrice e finalPrice são null
+    const filteredData = itemData.filter(item => item.originalPrice !== null || item.finalPrice !== null);
+
+    // Exibir o resultado completo em formato JSON no console
+    console.log(JSON.stringify(filteredData));
+  } else {
+    console.log('Nenhum código HTML encontrado no localStorage.');
+  }
+}
+
+// Chamar a função para carregar os dados salvos ao carregar a página
+loadSavedData();
