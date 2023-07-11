@@ -37,6 +37,9 @@ function loadSavedData() {
 
       // Verificar se imageSrc não é null e não termina com ".gif"
       if (itemDataObj.imageSrc && !itemDataObj.imageSrc.endsWith('.gif')) {
+        // Adicionar o campo game_link
+        itemDataObj.game_link = item.getAttribute('href');
+        
         itemData.push(itemDataObj);
       }
     });
